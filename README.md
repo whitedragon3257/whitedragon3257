@@ -14,10 +14,9 @@ Over time I will post my projects here for you to see, and if you want to help, 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=markdown&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-Csharp-000?&logo=csharp&logoColor=purple&color=black&style=for-the-badge)
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=blue&color=black"/>
 <img loading="lazy" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-<img src=""/>
-<img src=""/>
+<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=yellow&color=black"/>
 
 For port-scanning and others pentest tools i use: <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-plain.svg" width="30" height="30" /> <br>
 For my AI i very use : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
@@ -42,8 +41,9 @@ For my AI i very use : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@la
     <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"/>
 </div>
 
 <div align="center">
@@ -69,11 +69,11 @@ For my AI i very use : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@la
     <a href = "mailto:whitedragon36915@gmail.com">
         <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href = "wa.me/">
+    <a href = "wa.me/5562993882350">
         <img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
     <a>
-         <img loading="lazy" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+         <img loading="lazy" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=darkred">
     </a>
     <a>
           <img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
