@@ -21,6 +21,12 @@ For my AI i very use : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@la
  For my Website i use: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/> 
                     
+<p align="center">Visitor Count<br>
+    <a href="https://castorIsDead.xyz">
+        <img src="https://profile-counter.glitch.me/whitedragon3257/count.svg">
+    </a><br>
+    <img src="https://user-images.githubusercontent.com/51807726/195896676-6a4f13fa-1d69-49f1-abda-ae3df1cdf54b.gif"><br>
+</p>
 
 ### Contacts
 <div>
