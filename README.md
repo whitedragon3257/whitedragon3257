@@ -79,3 +79,5 @@ For my AI i very use : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@la
           <img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </div>
+
+[![An image of @whitedragon3257's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whitedragon3257)](https://holopin.io/@whitedragon3257)
