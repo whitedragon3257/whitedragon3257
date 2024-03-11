@@ -1,4 +1,5 @@
-# Hello
+# Hello, Devs!
+
 I'm sr.White (or sr.white dragon, if you prefer).
 
 I love working with artificial intelligence, but this is not unique project of me have. I like working with games in the terminal of the OS (Windows, Linux, etc). I recently developed a virtual library. 
@@ -31,8 +32,8 @@ For my AI i very use : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@la
  </p>
 </div>
 
-### Visitor Count
 <div align="center">
+    <h3> Visitor Count</h3>
     <img src="https://profile-counter.glitch.me/whitedragon3257/count.svg" align="center"><br>
     <img src="https://user-images.githubusercontent.com/51807726/195896676-6a4f13fa-1d69-49f1-abda-ae3df1cdf54b.gif">
 </div>
