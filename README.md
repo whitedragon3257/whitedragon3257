@@ -1,6 +1,6 @@
 # Hello, Devs!
 
-I'm sr.White (or sr.white dragon, if you prefer).
+I'm Mr.White (or Mr.white dragon, if you prefer).
 
 I love working with artificial intelligence, but this is not unique project of me have. I like working with games in the terminal of the OS (Windows, Linux, etc). I recently developed a virtual library. 
 Over time I will post my projects here for you to see, and if you want to help, feel free.
