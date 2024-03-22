@@ -5,6 +5,8 @@ I'm Mr.White (or Mr.white dragon, if you prefer).
 I love working with artificial intelligence, but this is not unique project of me have. I like working with games in the terminal of the OS (Windows, Linux, etc). I recently developed a virtual library. 
 Over time I will post my projects here for you to see, and if you want to help, feel free.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitedragon3257&layout=compact&theme=midnight-purple)
+
 ### **My main projects use**
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
@@ -23,7 +25,7 @@ For my AI i very use : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@la
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="30" height="30" />  
  For my Website i use: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/> 
-
+            
 ### Technologies
 <div display="inline">
     <img loading="lazy" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
