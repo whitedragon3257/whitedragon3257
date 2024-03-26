@@ -5,8 +5,8 @@ I'm Mr.White (or Mr.white dragon, if you prefer).
 I love working with artificial intelligence, but this is not unique project of me have. I like working with games in the terminal of the OS (Windows, Linux, etc). I recently developed a virtual library. 
 Over time I will post my projects here for you to see, and if you want to help, feel free.
 
-<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whitedragon3257&theme=midnight_purple">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whitedragon3257&theme=midnight_purple">  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whitedragon3257&theme=midnight_purple&utcOffset=8"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whitedragon3257&theme=midnight_purple"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitedragon3257&layout=compact&theme=midnight-purple"> 
+<div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whitedragon3257&theme=chartreuse_dark">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whitedragon3257&theme=chartreuse_dark">  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whitedragon3257&theme=chartreuse_dark&utcOffset=8"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whitedragon3257&theme=chartreuse_dark"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitedragon3257&layout=compact&theme=highcontrast"> 
 </div>
 
 ### **My main projects use**
